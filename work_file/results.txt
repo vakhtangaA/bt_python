@@ -1,0 +1,6 @@
+starting number - 6523758346872
+remove multiplies of three - 527584872
+add one to even numbers - 7533759357973
+only even digits - 6284682
+remove digits above five - 23342
+only odd digits - 537537
